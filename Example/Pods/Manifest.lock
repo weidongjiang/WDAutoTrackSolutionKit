@@ -1,0 +1,16 @@
+PODS:
+  - WDAutoTrackSolutionKit (0.1.0)
+
+DEPENDENCIES:
+  - WDAutoTrackSolutionKit (from `../`)
+
+EXTERNAL SOURCES:
+  WDAutoTrackSolutionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WDAutoTrackSolutionKit: e38d5b1226b010c078318391a24bbf810917e63b
+
+PODFILE CHECKSUM: d8f6229dd1598e89a255993da29b7cc4ba9c78f5
+
+COCOAPODS: 1.10.1

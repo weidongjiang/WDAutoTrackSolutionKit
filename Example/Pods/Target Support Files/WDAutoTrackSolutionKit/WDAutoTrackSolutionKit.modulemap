@@ -1,0 +1,6 @@
+framework module WDAutoTrackSolutionKit {
+  umbrella header "WDAutoTrackSolutionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WDAutoTrackSolutionKit_Tests {
+  umbrella header "Pods-WDAutoTrackSolutionKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
